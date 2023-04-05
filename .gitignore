@@ -4,12 +4,6 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-.idea/
-gradle/
-
-gradlew/
-gradlew.bat/
-
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -46,3 +40,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea/
+gradle/
+
+gradlew/
+gradlew.bat/
