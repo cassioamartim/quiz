@@ -1,0 +1,5 @@
+name: quiz-game
+author: Cássio Martim
+version: 1.0.0
+description: A quiz game created by Cássio Martim
+main: io.github.cassioamartim.quiz.Quiz
