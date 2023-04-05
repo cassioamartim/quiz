@@ -10,6 +10,14 @@ Run server with plugin, download for plugin [here](https://www.mediafire.com/fil
 
 To create new question categories, go to the GameType class, found [here](src/main/java/io/github/cassioamartim/quiz/game/GameType.java).
 
+# How to config database (MariaDB)
+
+You will need to have XAMPP installed on your computer to be able to start a local MariaDB server.
+
+To install, click on this [link](https://www.apachefriends.org/pt_br/download.html).
+
+You can change the connection address by going into the [MySQL](src/main/java/io/github/cassioamartim/quiz/database/MySQL.java) class and manually changing the requested data.
+
 # How to build
 
 You need to have **Gradle Build System** installed on your computer, install it by clicking [here](https://gradle.org/install/).
